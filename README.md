@@ -1,3 +1,3 @@
 # DiseUxUi
 
-He sido Diseñador y Dibujante Proyectista, por casi 3 décadas y por nuestro acontecer mundial, decidí aprovechar el tiempo así como actualizar y aumentar mis conocimientos y habilidades digitales participando de un BootCamp de capacitación en Diseño UxUi en Awakelab. A su vez motivado refrescando y aumentando mi nivel de Inglés. Otro interés considerando es una certificación como Coaching Integral.
+I have been a Designer and Draftsman, for almost 3 decades and due to our global events, I decided to take advantage of the time as well as update and increase my knowledge and digital skills by participating in a UxUi Design Training BootCamp.

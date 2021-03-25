@@ -1,0 +1,27 @@
+@media (min-width: 825px) and (max-width: 2560px){
+	.sec12{
+		display: none;
+	}
+	.sec11{
+		display: none;
+	}
+}
+
+@media (min-width: 535px) and (max-width: 824px){
+	.sec1{
+		display: none;
+	}
+	.sec12{
+		display: none;
+	}	
+}
+		
+@media (min-width: 200px) and (max-width: 534px){
+	.sec1{
+		display: none;
+	}
+	.sec11{
+		display: none;
+	}
+
+}

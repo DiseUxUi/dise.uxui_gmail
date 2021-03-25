@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'myfont';
+    src: url(../fonts/POORICH.TTF);
+}
+@font-face {
+    font-family: 'myfont1';
+    src: url(../fonts/panton.light-caps.otf);   
+}
+h1 {
+    font-family: 'myfont1';
+    display: grid;
+    color: #FFAA00;
+    justify-content: flex-start;
+    font-size: 400%;
+    padding-top: 3%;
+    padding-bottom: 6%;
+}  
+h2 {
+    font-family: 'myfont';
+    font-size: 555%;
+    color: #FA6648;
+    padding: 2%;
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 222%;
+    color: #C8C7B8;
+    padding: 3%;
+    padding-right: 0%;
+}
+h4 {
+    font-family: 'Roboto';
+    font-size: 100%;
+    color: #000;
+    padding: 1px;
+}
+/* Escritorio grande */
+.sec1 {    
+    background-color: #292422;
+    background-image: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 66%;
+    background-blend-mode: soft-light; 
+    min-height: 133%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 16%;
+}
+/* Tablet y pc pequeño */
+.sec11 {    
+    background-color: #292422;
+    background-image: url(../img/8.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 66%;
+    background-blend-mode: soft-light; 
+    min-height: 133%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 16%;
+}
+/* movil*/
+.sec12 {    
+    background-color: #292422;
+    background-image: url(../img/1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 66%;
+    background-blend-mode: soft-light; 
+    min-height: 133%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 16%;
+    display: flex;
+	justify-content: center;
+}
+
+.cabecita1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: initial;
+}
+.menu {
+    display: block;
+    font-size: 55%;
+}
+.sec2 {    
+    padding-bottom: 80%;
+    background-color: #707070;
+    display: block;
+    display: flex;
+}
+li {
+    display: inline-block;
+    background-color: #c8c7b8; 
+    list-style: none;
+    display: inline-flex;
+    margin: 3px;
+    padding: 3px;
+}
+.tit1 {
+    display: block;
+    display: flex;
+    position: initial;
+    padding-left: 17%;
+}
+.tit2 {
+    display: block;
+    display: flex;
+    font-size: 200%;
+    margin: 2%;
+}
+.sec21 {
+    padding: 3%;
+}
+.logo3 {
+    padding-top: 8%;
+}
+.tit3 {
+    display: block;
+    display: flex;
+    padding-bottom: 0%;
+}
+.btn_conversa {
+    position: fixed;
+    right: 8%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 282%;
+    color: #FA6648;
+    float: inline-start;
+    word-wrap: normal;
+    width: 333px;
+    height: 11%;
+    background-color:#c8c7b8;
+    border: 4px;
+    border: #292422;
+    
+    text-shadow: 1px 1px 1px rgba(255,255,255, .22);
+ 
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+ 
+    -webkit-box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+    -moz-box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+    box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+ 
+    -webkit-transition: all 0.15s ease;
+    -moz-transition: all 0.15s ease;
+    -o-transition: all 0.15s ease;
+    -ms-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+}
+
+.logo3 {
+    position: relative;
+    padding: 66px;
+}    
+.icono {
+        width: 50%;
+        margin-left: 5px;
+    }
+.icono:hover {
+        background-color:#FA6648;
+   
+}
+footer {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #292422;
+}
